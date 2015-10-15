@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KonumGonder</string>
+    <string name="title_activity_konum">Konum Gönder</string>
+    <string name="showMeLocation">Konum Göster</string>
+</resources>
